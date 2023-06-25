@@ -1,6 +1,6 @@
 window.__PRE_CONFIG__ = {
-  header: 'Bocchi Status',
-  subHeader: '我们不断监控我们的基础设施及其相关服务',
+  header: 'Server Status',
+  subHeader: 'Servers\' Probes Set up with ServerStatus',
   interval: 1.5,
-  footer: '<p>Powered by <a href="https://bocchi.ooo">Bocchi</a></p>'
+  footer: '<p>Powered by <a href="https://github.com/cokemine/ServerStatus-Hotaru">ServerStatus-Hotaru</a></p>'
 };
